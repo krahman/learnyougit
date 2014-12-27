@@ -1,0 +1,5 @@
+# To ignore webstorm project folers
+.idea
+
+# To ignore node modules folders
+node_modules
